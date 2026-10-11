@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 170" role="img" aria-labelledby="title desc">
+  <title id="title">NEXUS signature</title>
+  <desc id="desc">A compact Rushit NEXUS signature mark.</desc>
+  <rect width="700" height="170" rx="12" fill="#111310" stroke="#343A30"/>
+  <g transform="translate(58 36)" fill="none" stroke="#A7F34B" stroke-width="3">
+    <path d="M0 48L32 0 64 48 96 0 128 48M32 0L32 72M96 0L96 72"/>
+    <circle cx="64" cy="48" r="9" fill="#A7F34B"/>
+  </g>
+  <g fill="#E8E5D8" font-family="monospace">
+    <text x="250" y="70" font-size="30" letter-spacing="6">RUSHIT</text>
+    <text x="252" y="101" font-size="12" letter-spacing="3" fill="#A7F34B">NEXUS / OPERATOR 000</text>
+    <text x="252" y="128" font-size="10" fill="#B7B9AF">ENGINEERING THE UNKNOWN.</text>
+  </g>
+</svg>

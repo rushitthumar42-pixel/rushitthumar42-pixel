@@ -1,352 +1,244 @@
-<!--
-  RUSHIT // PROFILE OS
-  Replace every token wrapped in {{DOUBLE_BRACES}} before publishing.
-  The external widgets below are optional and can be removed independently.
--->
-
 <div align="center">
 
-  <a href="https://github.com/{{GITHUB_USERNAME}}">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:10002B,45:5B21B6,75:06B6D4,100:A3E635&text=RUSHIT&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT%20%2F%2F%20BUILDER%20IN%20MOTION&descAlignY=61&descSize=16&animation=twinkling"
-      alt="Rushit — Computer Science Engineering Student and builder in motion"
-      width="100%"
-    />
-  </a>
+<img src="./assets/nexus-hero.svg" alt="NEXUS computational orbital sculpture with Rushit engineering the unknown" width="100%" />
 
-  <br />
+<br />
 
-  <a href="https://github.com/{{GITHUB_USERNAME}}">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=I+turn+curiosity+into+working+software.;C%2B%2B+%2B+Python+%7C+DSA+%2B+AI%2FML+%7C+Open+Source;Learning+in+public.+Building+for+the+real+world.;Future+exceptional+software+engineer%3A+initializing..." alt="Animated introduction" />
-  </a>
+<img src="./assets/nexus-divider.svg" alt="" width="100%" />
 
-  <br /><br />
+<br />
 
-  <a href="https://github.com/{{GITHUB_USERNAME}}?tab=followers">
-    <img src="https://img.shields.io/github/followers/{{GITHUB_USERNAME}}?label=FOLLOW%20THE%20BUILD&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=8B5CF6" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/{{LINKEDIN_USERNAME}}">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:{{EMAIL_ADDRESS}}">
-    <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-  </a>
+`[ SYSTEM INITIALIZED ]` &nbsp; ` [ OPERATOR: RUSHIT ] ` &nbsp; ` [ STATUS: EVOLVING ] `
 
-  <br /><br />
+### ENGINEERING THE UNKNOWN.
 
-  <img src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&style=flat-square&color=06B6D4&label=PROFILE+SIGNALS" alt="Profile views" />
+Computer Science Engineering student building toward the intersection of **software engineering, artificial intelligence, algorithms, and computational systems**.
+
+<a href="https://github.com/rushitthumar42-pixel"><img src="https://img.shields.io/badge/GITHUB-RESEARCH_ARCHIVE-171A16?style=for-the-badge&logo=github&logoColor=E8E5D8&labelColor=111310" alt="Rushit's GitHub research archive" /></a>
+<a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LINKEDIN-TRANSMISSION_PORT-171A16?style=for-the-badge&logo=linkedin&logoColor=A7F34B&labelColor=111310" alt="Rushit's LinkedIn profile" /></a>
+<a href="mailto:{{EMAIL_ADDRESS}}"><img src="https://img.shields.io/badge/EMAIL-DIRECT_CHANNEL-171A16?style=for-the-badge&logo=gmail&logoColor=F38B70&labelColor=111310" alt="Email Rushit" /></a>
 
 </div>
 
 <br />
 
-> `// BUILD LOG 001`  
-> **Not chasing noise. Chasing depth.** I am building the fundamentals, shipping real projects, and turning every difficult problem into a better system.
-
-<div align="center">
-
-`[ C++ ]` &nbsp; ` [ PYTHON ] ` &nbsp; ` [ DSA ] ` &nbsp; ` [ AI / ML ] ` &nbsp; ` [ DATA ] ` &nbsp; ` [ OPEN SOURCE ] `
-
-</div>
-
----
-
-## `01 // ABOUT_ME`
+> **NEXUS** is a public-facing interface for an evolving computational research environment.  
+> The operator is real. The system language is fiction. The work is the proof.
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-### The human behind the commits
-
-I’m **Rushit**, a Computer Science Engineering student interested in the machinery behind useful software: algorithms that scale, models that learn, data that tells a story, and products that solve an actual problem.
-
-My current path is deliberately hands-on:
-
-- sharpening problem-solving with **DSA and competitive-style thinking**;
-- using **C++ and Python** to move from idea to implementation;
-- exploring **AI/ML, data science, and full-stack development**;
-- learning how strong engineering teams design, test, document, and ship;
-- contributing to open source and building a body of work I can stand behind.
-
-My long-term target: become an exceptional software engineer who can reason deeply, execute reliably, and make ambitious systems feel simple.
-
-</td>
-<td width="48%" valign="top">
-
-### `STATUS // LIVE`
+## `CHAPTER 00 / BOOT SEQUENCE`
 
 ```text
-┌─────────────────────────────────────────────┐
-│ RUSHIT.DEV / PERSONAL OPERATING SYSTEM      │
-├─────────────────────────────────────────────┤
-│ MODE       :: LEARNING_IN_PUBLIC            │
-│ SIGNAL     :: CURIOUS + CONSISTENT           │
-│ POWERED BY :: CURIOSITY / COFFEE / DEBUGGING │
-├─────────────────────────────────────────────┤
-│ BUILDING  :: practical software projects    │
-│ LEARNING  :: DSA + AI/ML foundations        │
-│ EXPLORING :: open source + full stack        │
-│ TARGET    :: production-quality thinking     │
-└─────────────────────────────────────────────┘
+NEXUS // PUBLIC INTERFACE
+────────────────────────
+OPERATOR   :: Rushit
+ROLE       :: CSE student
+DOMAIN     :: software / intelligence / computation
+ENVIRONMENT:: open source
+
+INPUT      :: curiosity
+PROCESS    :: learn -> build -> test -> contribute
+OUTPUT     :: useful systems, one iteration at a time
+
+FOCUS      :: C++ / Python / DSA / AI-ML
+MODE       :: LEARNING + BUILDING + CONTRIBUTING
+STATUS     :: EVOLVING
 ```
 
-<sub>Current coordinates change as the work evolves.</sub>
+</td>
+<td width="50%" valign="top">
+
+### `OPERATOR NOTE`
+
+I am building the fundamentals required to become an exceptional software engineer: rigorous problem solving, practical implementation, and the habit of making ideas real.
+
+Current trajectory:
+
+- learn algorithms deeply, not just syntactically;
+- use **C++** and **Python** to turn reasoning into software;
+- explore AI/ML and data science through practical experiments;
+- understand how production-quality projects are designed and maintained;
+- contribute to open source and learn from real codebases.
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/nexus-divider.svg" alt="" width="100%" />
 
-## `02 // TECH_ARSENAL`
+## `CHAPTER 01 / COGNITIVE TERRAIN`
 
-> A small, honest toolkit beats a giant untested logo wall. Technologies below are either confirmed in my current workflow or clearly marked as a direction I’m exploring.
+The map below is a topology of interests, not a claim of mastery. Solid nodes are active foundations; outlined nodes are directions under exploration.
+
+<div align="center">
+<img src="./assets/nexus-topology.svg" alt="Topology diagram connecting computer science to algorithms, software engineering, artificial intelligence, machine learning, and systems tools" width="100%" />
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ACTIVE FOUNDATION
+
+`C++` &nbsp; `PYTHON` &nbsp; `DATA STRUCTURES` &nbsp; `ALGORITHMS`
+
+</td>
+<td width="50%" valign="top">
+
+### EXPLORATION VECTOR
+
+`AI / ML` &nbsp; `DATA SCIENCE` &nbsp; `FULL STACK` &nbsp; `OPEN SOURCE`
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/nexus-divider.svg" alt="" width="100%" />
+
+## `CHAPTER 02 / ENGINEERING ARTIFACTS`
+
+The archive is intentionally honest: replace each editable slot with a real repository when it exists. No fictional projects, metrics, or deployments are presented as completed work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./assets/nexus-artifact-frame.svg" alt="" width="100%" />
+
+### `ARTIFACT // 01`
+## `{{PROJECT_NAME_01}}`
+
+**Purpose** — `{{TECHNICAL_PURPOSE_01}}`  
+**Stack** — `{{LANGUAGES_AND_TOOLS_01}}`  
+**Status** — `{{STATUS_01}}`
+
+<a href="https://github.com/rushitthumar42-pixel/{{PROJECT_REPOSITORY_01}}">`OPEN RESEARCH RECORD →`</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./assets/nexus-artifact-frame.svg" alt="" width="100%" />
+
+### `ARTIFACT // 02`
+## `{{PROJECT_NAME_02}}`
+
+**Purpose** — `{{TECHNICAL_PURPOSE_02}}`  
+**Stack** — `{{LANGUAGES_AND_TOOLS_02}}`  
+**Status** — `{{STATUS_02}}`
+
+<a href="https://github.com/rushitthumar42-pixel/{{PROJECT_REPOSITORY_02}}">`OPEN RESEARCH RECORD →`</a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>ARCHIVE EXPANSION // Add more verified artifacts</strong></summary>
+<br />
+
+Duplicate an artifact block only for projects that actually exist. Include a working repository link, accurate technologies, and a status such as `EXPERIMENTAL`, `IN PROGRESS`, or `MAINTAINED`.
+
+</details>
+
+<img src="./assets/nexus-divider.svg" alt="" width="100%" />
+
+## `CHAPTER 03 / COMPUTATIONAL DNA`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### LANGUAGES
+
+`C++`  
+`Python`
+
+</td>
+<td width="25%" valign="top">
+
+### ENGINEERING TOOLS
+
+`Git`  
+`GitHub`  
+`{{TOOLS_TO_ADD}}`
+
+</td>
+<td width="25%" valign="top">
+
+### DATA SYSTEMS
+
+`{{DATA_TOOLS_TO_ADD}}`
+
+</td>
+<td width="25%" valign="top">
+
+### AI / INTELLIGENCE
+
+`AI / ML`  
+`Data Science`
+
+</td>
+</tr>
+</table>
+
+> **CURRENTLY EXPLORING** — `{{FRAMEWORKS_OR_DATABASES_TO_ADD}}`  
+> Add a technology only after using it in a real experiment or project. The archive values accuracy over logo density.
+
+<img src="./assets/nexus-divider.svg" alt="" width="100%" />
+
+## `CHAPTER 04 / SYSTEM EVOLUTION`
+
+These are external telemetry views of public GitHub activity. They are not fictional system metrics. If a provider becomes unavailable, the linked GitHub profile and native contribution calendar remain the source of truth.
 
 <div align="center">
 
-### CORE LANGUAGES
+<a href="https://github.com/rushitthumar42-pixel"><img height="180" src="https://github-readme-stats.vercel.app/api?username=rushitthumar42-pixel&show_icons=true&hide_border=true&bg_color=111310&title_color=A7F34B&icon_color=F38B70&text_color=E8E5D8&ring_color=8C7CFF&include_all_commits=true" alt="Rushit's public GitHub statistics" /></a>
+<a href="https://github.com/rushitthumar42-pixel"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushitthumar42-pixel&layout=compact&hide_border=true&bg_color=111310&title_color=A7F34B&text_color=E8E5D8&langs_count=8" alt="Rushit's public GitHub language distribution" /></a>
 
-<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" alt="C++ and Python" />
+<br /><br />
 
-### ENGINEERING DOMAINS
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub" />
-
-`ALGORITHMS` &nbsp; `DATA STRUCTURES` &nbsp; `ARTIFICIAL INTELLIGENCE` &nbsp; `MACHINE LEARNING` &nbsp; `DATA SCIENCE`
-
-### NEXT MODULES // EXPLORING
-
-`FULL-STACK DEVELOPMENT` &nbsp; `OPEN-SOURCE WORKFLOWS` &nbsp; `PRODUCTION ENGINEERING`
+<a href="https://github.com/rushitthumar42-pixel"><img src="https://ghchart.rshah.org/A7F34B/rushitthumar42-pixel" alt="Rushit's public GitHub contribution calendar" width="95%" /></a>
 
 </div>
 
 <details>
-<summary><strong>Want the exact stack?</strong></summary>
+<summary><strong>Telemetry configuration</strong></summary>
 <br />
 
-Add tools here only after you have used them in a project. For example:
-
-```text
-Frameworks :: {{FRAMEWORKS_YOU_HAVE_USED}}
-Databases  :: {{DATABASES_YOU_HAVE_USED}}
-Cloud      :: {{CLOUD_TOOLS_YOU_HAVE_USED}}
-Tooling    :: {{TOOLS_YOU_HAVE_USED}}
-```
+- The statistics cards use the actual profile username and read public GitHub data.
+- The contribution calendar uses `ghchart.rshah.org`; remove it if it becomes unavailable.
+- No private activity, follower counts, streak claims, or commit totals are hard-coded.
+- Keep the native GitHub contribution calendar as the authoritative fallback.
 
 </details>
 
----
+<img src="./assets/nexus-divider.svg" alt="" width="100%" />
 
-## `03 // FEATURED_PROJECTS`
-
-> A project card is a launch slot, not a fictional achievement. Replace the placeholders with real repositories as they become public.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `◈ PROJECT_01`
-#### `{{PROJECT_NAME_01}}`
-
-**Purpose**  
-{{ONE_SENTENCE_DESCRIPTION_OF_PROJECT_01}}
-
-**Stack**  
-`{{LANGUAGE}}` `{{FRAMEWORK_OR_LIBRARY}}` `{{DATABASE_OR_TOOL}}`
-
-<a href="https://github.com/{{GITHUB_USERNAME}}/{{PROJECT_REPOSITORY_01}}">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open project 01 repository" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### `◈ PROJECT_02`
-#### `{{PROJECT_NAME_02}}`
-
-**Purpose**  
-{{ONE_SENTENCE_DESCRIPTION_OF_PROJECT_02}}
-
-**Stack**  
-`{{LANGUAGE}}` `{{FRAMEWORK_OR_LIBRARY}}` `{{DATABASE_OR_TOOL}}`
-
-<a href="https://github.com/{{GITHUB_USERNAME}}/{{PROJECT_REPOSITORY_02}}">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open project 02 repository" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `◈ PROJECT_03`
-#### `{{PROJECT_NAME_03}}`
-
-**Purpose**  
-{{ONE_SENTENCE_DESCRIPTION_OF_PROJECT_03}}
-
-**Stack**  
-`{{LANGUAGE}}` `{{FRAMEWORK_OR_LIBRARY}}` `{{DATABASE_OR_TOOL}}`
-
-<a href="https://github.com/{{GITHUB_USERNAME}}/{{PROJECT_REPOSITORY_03}}">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-A3E635?style=for-the-badge&logo=github&logoColor=111827" alt="Open project 03 repository" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### `◈ PROJECT_04`
-#### `{{PROJECT_NAME_04}}`
-
-**Purpose**  
-{{ONE_SENTENCE_DESCRIPTION_OF_PROJECT_04}}
-
-**Stack**  
-`{{LANGUAGE}}` `{{FRAMEWORK_OR_LIBRARY}}` `{{DATABASE_OR_TOOL}}`
-
-<a href="https://github.com/{{GITHUB_USERNAME}}/{{PROJECT_REPOSITORY_04}}">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Open project 04 repository" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## `04 // GITHUB_ANALYTICS`
+## `CHAPTER 05 / TRANSMISSION PORT`
 
 <div align="center">
 
-<a href="https://github.com/{{GITHUB_USERNAME}}">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A3E635&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="Rushit's GitHub statistics" />
-</a>
-<a href="https://github.com/{{GITHUB_USERNAME}}">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E5E7EB&langs_count=8" alt="Rushit's most used languages" />
-</a>
+<img src="./assets/nexus-signature.svg" alt="NEXUS signature mark: Rushit, engineering the unknown" width="420" />
 
-<br />
+### OPEN CHANNELS
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user={{GITHUB_USERNAME}}&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=67E8F9&sideLabels=67E8F9" alt="Rushit's GitHub contribution streak" />
-</a>
+<a href="https://github.com/rushitthumar42-pixel">`GITHUB / ARCHIVE`</a> &nbsp; · &nbsp;
+<a href="{{LINKEDIN_URL}}">`LINKEDIN / PROFESSIONAL`</a> &nbsp; · &nbsp;
+<a href="mailto:{{EMAIL_ADDRESS}}">`EMAIL / DIRECT`</a> &nbsp; · &nbsp;
+<a href="{{PORTFOLIO_URL}}">`PORTFOLIO / FUTURE LINK`</a>
 
 <br /><br />
 
-<a href="https://github.com/{{GITHUB_USERNAME}}">
-  <img src="https://ghchart.rshah.org/8B5CF6/{{GITHUB_USERNAME}}" alt="Rushit's GitHub contribution calendar" width="95%" />
-</a>
-
-</div>
-
-<details>
-<summary><strong>Widget fallback + privacy notes</strong></summary>
-<br />
-
-These cards are third-party image services. They may rate-limit, sleep, or change independently of GitHub. If one fails, remove that image without affecting the rest of the profile. `count_private=true` only reflects private activity when GitHub and the service can access it; it does not expose private repositories.
-
-Reliable fallback: keep the linked GitHub profile and the contribution calendar above the widgets. The profile remains useful even when external cards are unavailable.
-
-</details>
-
----
-
-## `05 // CURRENT_MISSION`
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-### `01`
-**SOLVE**
-
-Build sharper DSA intuition and translate complex problems into clean, testable steps.
-
-</td>
-<td valign="top" width="25%">
-
-### `02`
-**APPLY**
-
-Turn AI/ML and data-science concepts into practical software, not just notebooks.
-
-</td>
-<td valign="top" width="25%">
-
-### `03`
-**CONTRIBUTE**
-
-Read real codebases, make useful open-source contributions, and learn in public.
-
-</td>
-<td valign="top" width="25%">
-
-### `04`
-**SHIP**
-
-Build production-quality projects with documentation, tests, thoughtful UX, and iteration.
-
-</td>
-</tr>
-</table>
-
----
-
-## `06 // ACHIEVEMENTS_AND_JOURNEY`
-
-No unverified claims here. This is the changelog space for milestones that actually happened.
-
-```text
-┌─ MILESTONE LOG ───────────────────────────────────────────┐
-│ [ ] {{CERTIFICATION_OR_COURSE}} — {{DATE}}                │
-│ [ ] {{HACKATHON_OR_COMPETITION}} — {{RESULT_AND_DATE}}    │
-│ [ ] {{OPEN_SOURCE_MILESTONE}} — {{REPOSITORY_OR_LINK}}    │
-│ [ ] {{MEASURABLE_PROJECT_MILESTONE}} — {{DATE}}           │
-└───────────────────────────────────────────────────────────┘
-```
-
-Delete this section or replace each line when you have verified milestones to showcase.
-
----
-
-## `07 // CONNECT_WITH_ME`
-
-<div align="center">
-
-### Have an idea, an issue, or a project worth building?
-
-<a href="https://github.com/{{GITHUB_USERNAME}}">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/{{LINKEDIN_USERNAME}}">
-  <img src="https://img.shields.io/badge/LINKEDIN-FIND_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Find me on LinkedIn" />
-</a>
-<a href="mailto:{{EMAIL_ADDRESS}}">
-  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rushit" />
-</a>
-<a href="{{PORTFOLIO_URL}}">
-  <img src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
-</a>
-
-<br /><br />
-
-`[ TRANSMISSION OPEN ]` &nbsp; `[ IDEAS WELCOME ]` &nbsp; ` [ LET'S BUILD ] `
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10002B,50:5B21B6,100:06B6D4&animation=twinkling" alt="" width="100%" />
-
-<sub>Designed with intent. Built with curiosity. Maintained by Rushit.</sub>
+`NEXUS // END OF CURRENT TRANSMISSION`
 
 </div>
 
 <!--
-  OPTIONAL CUSTOM ASSET IDEAS
-  - A repository-hosted SVG circuit map with your initials and tech domains.
-  - A project-specific architecture diagram exported as an accessible SVG.
-  - A lightweight animated terminal SVG for the "STATUS // LIVE" panel.
-  - A custom contribution heatmap treatment generated from your own public data.
-  Prefer repository-hosted assets for long-term reliability and pin third-party assets
-  to known URLs when possible.
+CUSTOMIZATION
+1. Replace {{LINKEDIN_URL}}, {{EMAIL_ADDRESS}}, and {{PORTFOLIO_URL}}.
+2. Replace project and technology placeholders only with verified information.
+3. Keep the fictional NEXUS labels clearly separate from real telemetry.
 -->

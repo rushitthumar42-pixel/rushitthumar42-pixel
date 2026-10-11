@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">NEXUS: Rushit engineering the unknown</title>
+  <desc id="desc">An abstract orbital computational sculpture on a graphite field.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0D0B"/><stop offset=".55" stop-color="#171A16"/><stop offset="1" stop-color="#252A22"/></linearGradient>
+    <linearGradient id="acid" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A7F34B"/><stop offset="1" stop-color="#5D9A24"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#A7F34B" stop-opacity=".22"/><stop offset="1" stop-color="#A7F34B" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#E8E5D8" stroke-opacity=".08"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg)"/>
+  <rect width="1200" height="520" fill="url(#grid)"/>
+  <circle cx="850" cy="245" r="245" fill="url(#glow)" filter="url(#soft)"/>
+  <g fill="none" stroke="#A7F34B" stroke-opacity=".58">
+    <ellipse cx="855" cy="255" rx="265" ry="88" transform="rotate(-22 855 255)" stroke-width="2"/>
+    <ellipse cx="855" cy="255" rx="265" ry="88" transform="rotate(36 855 255)" stroke-width="1"/>
+    <ellipse cx="855" cy="255" rx="205" ry="58" transform="rotate(90 855 255)" stroke-width="1"/>
+  </g>
+  <g stroke="#E8E5D8" stroke-opacity=".3" stroke-width="1">
+    <path d="M600 255H1115M855 20V492M670 80L1045 430M680 430L1050 80"/>
+  </g>
+  <g fill="#A7F34B">
+    <circle cx="630" cy="252" r="4"/><circle cx="1047" cy="154" r="4"/><circle cx="920" cy="455" r="4"/>
+    <circle cx="786" cy="54" r="3"/><circle cx="1090" cy="330" r="3"/>
+  </g>
+  <g transform="translate(850 255)">
+    <path d="M0-112L105-45 76 82-38 112-112 21-78-78Z" fill="#111310" stroke="url(#acid)" stroke-width="3"/>
+    <path d="M0-112V18L76 82M0 18L-112 21M0 18L-38 112M0 18L105-45" fill="none" stroke="#E8E5D8" stroke-opacity=".6"/>
+    <path d="M0-66L55-31 40 42-21 62-64 12-43-41Z" fill="#A7F34B" fill-opacity=".15" stroke="#A7F34B" stroke-width="2"/>
+    <circle r="12" fill="#A7F34B"/><circle r="5" fill="#0B0D0B"/>
+  </g>
+  <g fill="#E8E5D8" font-family="monospace">
+    <text x="64" y="76" font-size="13" letter-spacing="4" fill="#A7F34B">NEXUS / PUBLIC INTERFACE</text>
+    <text x="60" y="192" font-size="72" font-weight="700" letter-spacing="8">RUSHIT</text>
+    <text x="64" y="237" font-size="25" letter-spacing="5">ENGINEERING THE UNKNOWN.</text>
+    <text x="66" y="300" font-size="12" fill="#B7B9AF">SOFTWARE  ×  INTELLIGENCE  ×  COMPUTATION</text>
+    <text x="66" y="354" font-size="11" fill="#A7F34B">[ DOMAIN: COMPUTER SCIENCE ]</text>
+    <text x="66" y="378" font-size="11" fill="#A7F34B">[ MODE: LEARNING / BUILDING / CONTRIBUTING ]</text>
+    <text x="66" y="450" font-size="10" fill="#B7B9AF">OBJECT 000 // THE OPERATOR IS THE ARCHITECT</text>
+  </g>
+</svg>

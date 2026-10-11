@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">NEXUS social preview</title>
+  <desc id="desc">Graphite NEXUS social preview with an orbital computational sculpture.</desc>
+  <rect width="1280" height="640" fill="#0B0D0B"/>
+  <path d="M0 520L350 0H700L350 640H0Z" fill="#171A16"/>
+  <g fill="none" stroke="#A7F34B" stroke-opacity=".42">
+    <ellipse cx="930" cy="320" rx="275" ry="90" transform="rotate(-20 930 320)" stroke-width="3"/>
+    <ellipse cx="930" cy="320" rx="275" ry="90" transform="rotate(35 930 320)" stroke-width="2"/>
+    <path d="M650 320H1210M930 45V595" stroke-width="1"/>
+  </g>
+  <path d="M930 160L1055 245 1018 405 880 455 785 335 825 205Z" fill="#111310" stroke="#A7F34B" stroke-width="4"/>
+  <circle cx="930" cy="320" r="15" fill="#A7F34B"/>
+  <g fill="#E8E5D8" font-family="monospace">
+    <text x="72" y="145" fill="#A7F34B" font-size="18" letter-spacing="6">NEXUS / PUBLIC INTERFACE</text>
+    <text x="70" y="290" font-size="92" font-weight="700" letter-spacing="12">RUSHIT</text>
+    <text x="74" y="350" font-size="30" letter-spacing="7">ENGINEERING THE UNKNOWN.</text>
+    <text x="74" y="520" fill="#B7B9AF" font-size="15" letter-spacing="3">SOFTWARE × INTELLIGENCE × COMPUTATION</text>
+  </g>
+</svg>

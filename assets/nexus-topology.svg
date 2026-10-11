@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">NEXUS cognitive terrain</title>
+  <desc id="desc">A topology map connecting computer science interests.</desc>
+  <defs>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#A7F34B" stroke-opacity=".1"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect width="1000" height="430" rx="12" fill="#111310"/>
+  <rect width="1000" height="430" rx="12" fill="url(#grid)"/>
+  <circle cx="500" cy="214" r="135" fill="#A7F34B" fill-opacity=".09" filter="url(#blur)"/>
+  <g fill="none" stroke="#A7F34B" stroke-opacity=".5" stroke-width="2">
+    <path d="M500 214L180 90M500 214L150 320M500 214L820 85M500 214L850 320M500 214L750 215"/>
+  </g>
+  <g fill="#111310" stroke="#A7F34B" stroke-width="2">
+    <circle cx="500" cy="214" r="66"/>
+    <circle cx="180" cy="90" r="45"/><circle cx="150" cy="320" r="45"/>
+    <circle cx="820" cy="85" r="45"/><circle cx="850" cy="320" r="45"/><circle cx="750" cy="215" r="45"/>
+  </g>
+  <g font-family="monospace" fill="#E8E5D8" text-anchor="middle">
+    <text x="500" y="207" font-size="16" fill="#A7F34B">COMPUTER</text><text x="500" y="228" font-size="16" fill="#A7F34B">SCIENCE</text>
+    <text x="180" y="86" font-size="12">ALGORITHMS</text><text x="180" y="103" font-size="12">&amp; DATA STRUCTURES</text>
+    <text x="150" y="316" font-size="12">SOFTWARE</text><text x="150" y="333" font-size="12">ENGINEERING</text>
+    <text x="820" y="81" font-size="12">ARTIFICIAL</text><text x="820" y="98" font-size="12">INTELLIGENCE</text>
+    <text x="850" y="316" font-size="12">MACHINE</text><text x="850" y="333" font-size="12">LEARNING</text>
+    <text x="750" y="211" font-size="12">SYSTEMS</text><text x="750" y="228" font-size="12">&amp; TOOLS</text>
+  </g>
+  <g fill="#A7F34B"><circle cx="500" cy="148" r="4"/><circle cx="180" cy="45" r="3"/><circle cx="820" cy="40" r="3"/></g>
+  <text x="25" y="30" fill="#A7F34B" font-family="monospace" font-size="11" letter-spacing="3">TERRAIN / 01</text>
+  <text x="975" y="405" fill="#B7B9AF" font-family="monospace" font-size="10" text-anchor="end">SOLID = ACTIVE FOUNDATION // OUTLINE = EXPLORATION</text>
+</svg>
