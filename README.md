@@ -11,7 +11,7 @@
 Computer Science Engineering student exploring **C++, Python, algorithms, AI/ML, software engineering, and open source**.
 
 <a href="https://github.com/rushitthumar42-pixel"><img src="https://img.shields.io/badge/GITHUB-OPEN_ARCHIVE-111310?style=for-the-badge&logo=github&logoColor=E7E6DF&labelColor=111310" alt="Rushit's GitHub archive" /></a>
-<a href="{{PORTFOLIO_URL}}"><img src="https://img.shields.io/badge/PORTFOLIO-PRISMATIC_OS-B4FF52?style=for-the-badge&logo=googlechrome&logoColor=090A09&labelColor=B4FF52" alt="Rushit's interactive portfolio" /></a>
+<a href="{{PORTFOLIO_URL}}"><img src="https://img.shields.io/badge/PORTFOLIO-PRISMATIC_OS-56D9FF?style=for-the-badge&logo=googlechrome&logoColor=071016&labelColor=56D9FF" alt="Rushit's interactive portfolio" /></a>
 
 </div>
 
@@ -45,12 +45,12 @@ Project slots remain explicit until real repositories are available. Replace onl
 ## `04 // SYSTEM EVOLUTION`
 
 <div align="center">
-<a href="https://github.com/rushitthumar42-pixel"><img height="180" src="https://github-readme-stats.vercel.app/api?username=rushitthumar42-pixel&show_icons=true&hide_border=true&bg_color=111310&title_color=B4FF52&icon_color=A792FF&text_color=E7E6DF&include_all_commits=true" alt="Rushit's public GitHub statistics" /></a>
-<a href="https://github.com/rushitthumar42-pixel"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushitthumar42-pixel&layout=compact&hide_border=true&bg_color=111310&title_color=B4FF52&text_color=E7E6DF&langs_count=8" alt="Rushit's public GitHub language distribution" /></a>
+<a href="https://github.com/rushitthumar42-pixel"><img height="180" src="https://github-readme-stats.vercel.app/api?username=rushitthumar42-pixel&show_icons=true&hide_border=true&bg_color=0E141C&title_color=56D9FF&icon_color=6C8CFF&text_color=E8EEF5&include_all_commits=true" alt="Rushit's public GitHub statistics" /></a>
+<a href="https://github.com/rushitthumar42-pixel"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushitthumar42-pixel&layout=compact&hide_border=true&bg_color=0E141C&title_color=56D9FF&text_color=E8EEF5&langs_count=8" alt="Rushit's public GitHub language distribution" /></a>
 
 <br /><br />
 
-<a href="https://github.com/rushitthumar42-pixel"><img src="https://ghchart.rshah.org/B4FF52/rushitthumar42-pixel" alt="Rushit's public GitHub contribution calendar" width="95%" /></a>
+<a href="https://github.com/rushitthumar42-pixel"><img src="https://ghchart.rshah.org/56D9FF/rushitthumar42-pixel" alt="Rushit's public GitHub contribution calendar" width="95%" /></a>
 </div>
 
 <sub>Telemetry is read from public GitHub data. If an external card fails, the linked profile and native contribution calendar remain the source of truth.</sub>

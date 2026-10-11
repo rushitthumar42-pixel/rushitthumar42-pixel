@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" role="img" aria-label="NEXUS geometric section divider">
   <path d="M0 18H430L450 5 470 31 490 18H760L780 8 800 28 820 18H1200" fill="none" stroke="#343A30" stroke-width="2"/>
-  <path d="M0 18H430M820 18H1200" stroke="#A7F34B" stroke-width="1"/>
-  <circle cx="450" cy="18" r="4" fill="#A7F34B"/><circle cx="780" cy="18" r="4" fill="#F38B70"/>
+  <path d="M0 18H430M820 18H1200" stroke="#56D9FF" stroke-width="1"/>
+  <circle cx="450" cy="18" r="4" fill="#56D9FF"/><circle cx="780" cy="18" r="4" fill="#6C8CFF"/>
   <path d="M588 18h24M624 18h8" stroke="#E8E5D8" stroke-width="2"/>
 </svg>

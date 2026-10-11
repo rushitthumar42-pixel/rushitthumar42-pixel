@@ -27,12 +27,12 @@ type Project = {
 
 const GITHUB = "https://github.com/rushitthumar42-pixel";
 const skills: SkillNode[] = [
-  { id: "algorithms", label: "C++ + algorithms", kicker: "ACTIVE FOUNDATION", detail: "Building problem-solving depth through data structures, algorithms, and implementation discipline.", x: 19, y: 24, state: "active", accent: "#b4ff52" },
-  { id: "python", label: "Python + automation", kicker: "ACTIVE FOUNDATION", detail: "Using Python as a practical language for experiments, automation, and data-oriented workflows.", x: 78, y: 22, state: "active", accent: "#b4ff52" },
-  { id: "architecture", label: "Software architecture", kicker: "IN PRACTICE", detail: "Learning to turn ideas into maintainable, testable software with a clear path from interface to implementation.", x: 16, y: 72, state: "exploring", accent: "#a792ff" },
-  { id: "intelligence", label: "Artificial intelligence", kicker: "EXPLORATION VECTOR", detail: "Exploring how intelligent systems are designed, evaluated, and made useful beyond the notebook.", x: 82, y: 70, state: "exploring", accent: "#a792ff" },
-  { id: "data", label: "Data science", kicker: "EXPLORATION VECTOR", detail: "Following the signal from raw data to meaningful patterns, decisions, and software.", x: 50, y: 10, state: "exploring", accent: "#a792ff" },
-  { id: "opensource", label: "Open source", kicker: "NORTH STAR", detail: "Reading real codebases, contributing thoughtfully, and learning in public.", x: 50, y: 89, state: "exploring", accent: "#a792ff" },
+  { id: "algorithms", label: "C++ + algorithms", kicker: "ACTIVE FOUNDATION", detail: "Building problem-solving depth through data structures, algorithms, and implementation discipline.", x: 19, y: 24, state: "active", accent: "#56d9ff" },
+  { id: "python", label: "Python + automation", kicker: "ACTIVE FOUNDATION", detail: "Using Python as a practical language for experiments, automation, and data-oriented workflows.", x: 78, y: 22, state: "active", accent: "#56d9ff" },
+  { id: "architecture", label: "Software architecture", kicker: "IN PRACTICE", detail: "Learning to turn ideas into maintainable, testable software with a clear path from interface to implementation.", x: 16, y: 72, state: "exploring", accent: "#6c8cff" },
+  { id: "intelligence", label: "Artificial intelligence", kicker: "EXPLORATION VECTOR", detail: "Exploring how intelligent systems are designed, evaluated, and made useful beyond the notebook.", x: 82, y: 70, state: "exploring", accent: "#6c8cff" },
+  { id: "data", label: "Data science", kicker: "EXPLORATION VECTOR", detail: "Following the signal from raw data to meaningful patterns, decisions, and software.", x: 50, y: 10, state: "exploring", accent: "#6c8cff" },
+  { id: "opensource", label: "Open source", kicker: "NORTH STAR", detail: "Reading real codebases, contributing thoughtfully, and learning in public.", x: 50, y: 89, state: "exploring", accent: "#6c8cff" },
 ];
 
 const projects: Project[] = [

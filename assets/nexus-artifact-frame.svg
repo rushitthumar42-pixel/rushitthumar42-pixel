@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 92" role="img" aria-label="NEXUS engineering artifact frame">
   <rect width="700" height="92" rx="8" fill="#111310" stroke="#343A30"/>
-  <path d="M0 20H700M22 0V92M678 0V92" stroke="#A7F34B" stroke-opacity=".35"/>
+  <path d="M0 20H700M22 0V92M678 0V92" stroke="#56D9FF" stroke-opacity=".35"/>
   <path d="M36 46H664M350 20V72" stroke="#E8E5D8" stroke-opacity=".12" stroke-dasharray="3 9"/>
-  <circle cx="52" cy="20" r="4" fill="#A7F34B"/><circle cx="648" cy="72" r="3" fill="#F38B70"/>
-  <text x="38" y="14" fill="#A7F34B" font-family="monospace" font-size="9" letter-spacing="2">ARCHIVE OBJECT / UNCLASSIFIED</text>
+  <circle cx="52" cy="20" r="4" fill="#56D9FF"/><circle cx="648" cy="72" r="3" fill="#6C8CFF"/>
+  <text x="38" y="14" fill="#56D9FF" font-family="monospace" font-size="9" letter-spacing="2">ARCHIVE OBJECT / UNCLASSIFIED</text>
   <text x="350" y="53" fill="#B7B9AF" font-family="monospace" font-size="10" text-anchor="middle" letter-spacing="4">ENGINEERING ARTIFACT</text>
 </svg>
